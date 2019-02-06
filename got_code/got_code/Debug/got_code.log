@@ -1,4 +1,0 @@
-﻿  Source.c
-c:\users\cdac\source\repos\himamynampati\ncrwork1\got_code\got_code\source.c(17): warning C4013: 'getch' undefined; assuming extern returning int
-  got_code.vcxproj -> C:\Users\cdac\Source\Repos\HimaMynampati\ncrwork1\got_code\Debug\got_code.exe
-  got_code.vcxproj -> C:\Users\cdac\Source\Repos\HimaMynampati\ncrwork1\got_code\Debug\got_code.pdb (Full PDB)
