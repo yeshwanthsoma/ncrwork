@@ -29,7 +29,7 @@ int _tmain(int argv,TCHAR* argc[],WCHAR *env[]) {
 }
 	else {
 		printf("Yes the calc process will be opened");
-		printf("\n the process id is %d", PCALC.dwProcessId);
+		printf("\n the process id is %d", GetCurrentProcessId());
 	}
 
 	res1 = CreateProcess(NULL,
@@ -49,7 +49,7 @@ int _tmain(int argv,TCHAR* argc[],WCHAR *env[]) {
 	}
 	else {
 		printf("Yes the note process will be opened");
-		printf("\n the process id is %d", PNOTE.dwProcessId);
+		printf("\n the process id is %d", GetCurrentProcessId());
 	}
 
 	int m;
