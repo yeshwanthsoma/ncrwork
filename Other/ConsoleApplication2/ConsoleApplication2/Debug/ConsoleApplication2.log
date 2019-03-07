@@ -1,0 +1,6 @@
+﻿  calculator.cpp
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\calculator.cpp(99): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\calculator.cpp(102): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\calculator.cpp(142): warning C4715: 'checkpre': not all control paths return a value
+  ConsoleApplication2.vcxproj -> C:\Users\soma yeshwanth\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\soma yeshwanth\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
