@@ -1,0 +1,21 @@
+﻿  calculator.cpp
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(128): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(130): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(131): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(132): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(133): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(135): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(136): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(138): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(145): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(153): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(163): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(14): warning C4101: 'b': unreferenced local variable
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(14): warning C4101: 'c': unreferenced local variable
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(50): warning C4101: 'arr': unreferenced local variable
+c:\users\soma yeshwanth\documents\visual studio 2015\projects\calculator\calculator\calculator.cpp(206): warning C4715: 'checkpre': not all control paths return a value
+  calculator.vcxproj -> C:\Users\soma yeshwanth\Desktop\ncrwork\Other\ConsoleApplication2\Debug\calculator.exe
+  calculator.vcxproj -> C:\Users\soma yeshwanth\Desktop\ncrwork\Other\ConsoleApplication2\Debug\calculator.pdb (Full PDB)

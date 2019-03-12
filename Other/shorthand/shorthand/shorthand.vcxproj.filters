@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="shorthand.cpp">
+    <ClCompile Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\strings\strings\shorthandEx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
