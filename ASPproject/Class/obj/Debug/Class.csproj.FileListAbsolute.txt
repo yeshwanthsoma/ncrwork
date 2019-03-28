@@ -1,0 +1,4 @@
+C:\Users\soma yeshwanth\Documents\Visual Studio 2015\Projects\ASPproject\Class\bin\Debug\Class.dll
+C:\Users\soma yeshwanth\Documents\Visual Studio 2015\Projects\ASPproject\Class\bin\Debug\Class.pdb
+C:\Users\soma yeshwanth\Documents\Visual Studio 2015\Projects\ASPproject\Class\obj\Debug\Class.dll
+C:\Users\soma yeshwanth\Documents\Visual Studio 2015\Projects\ASPproject\Class\obj\Debug\Class.pdb
